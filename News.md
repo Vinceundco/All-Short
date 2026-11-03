@@ -1,6 +1,7 @@
-Welcome back!
-I'm working on All-Short again! But it all takes very long to make because of shortcuts (bugs, lags, etc.) so please stay calm ;).
-I'm trying to do my best to make my to do list shorter!
+Hi everyone!
+I’m working on All-Short again! I’ve implemented quite a lot of new features, so I think All-Short is finally ready to leave the beta phase. Have fun trying it out!
 
-have a nice day,
+I’m also working on All-Cart and All-Pay right now, and I hope I can release them soon too.
+
+Have a nice day,
 Vinceundco
